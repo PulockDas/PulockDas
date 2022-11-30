@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pulock</h1>
 <h3 align="center">I'm a passionate undergrad student</h3>
 
-[![Resume](https://img.shields.io/badge/Resume-informational)](https://drive.google.com/file/d/1n9ENc5LOfzx_LQ_AZssWCDc21AbMUzLs/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-informational)](https://drive.google.com/file/d/13P5kIkZfvYd-or-igJFQVs7URpl6ukVG/view?usp=sharing)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pulock/)
 [![Email Address](https://img.shields.io/badge/%20-pulock46@student.sust.edu-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
 [![Facebook Follow](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/pulockdas.das)
