@@ -5,7 +5,7 @@
 
 My current focus extends to the realms of scalability, particularly in Kubernetes and Docker Swarm, aiming to enhance application scaling capabilities. Beyond that, I harbor a profound interest in artificial intelligence and deep learning, exploring avenues to integrate these cutting-edge technologies into my skill set and the projects I undertake.</p>
 
-[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=0e76a8&logo=adobe-acrobat-reader&logoColor=ffffff)](Documents/Pulock-Das-Resume.pdf)
+[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=0e76a8&logo=adobe-acrobat-reader&logoColor=ffffff)](https://pulockdas.github.io/resume.pdf)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin)](https://www.linkedin.com/in/pulock/)
 [![Leetcode](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=leetcode)](https://www.leetcode.com/pulock50)
 [![Codeforces](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/pulock50)
