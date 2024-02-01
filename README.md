@@ -1,36 +1,39 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pulock</h1>
-<h3 align="center">I'm a passionate undergrad student</h3>
+<h1 align="center">Hi there, I'm Pulock Das</h1>
+<p>I am currently a dedicated software engineer at Tallykhata, a forward-thinking fintech software company with in-house products. My role involves dynamic product maintenance, continuously integrating new features, and fostering a culture of good software development practices having been involved in a spectrum of technical tasks, ranging from Spring, Django app development, and front-end development using Vue.js and JavaScript. Additionally, I'm well-versed in utilizing message queues, Docker for containerization, CI/CD pipelines, and managing SQL databases.
 
-[![Resume](https://img.shields.io/badge/Resume-informational)](https://drive.google.com/file/d/1ZB8-NeUsamGGM76V2E8bnW2bSoF9KBac/view?usp=sharing)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pulock/)
-[![Email Address](https://img.shields.io/badge/%20-pulock46@student.sust.edu-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
+My current focus extends to the realms of scalability, particularly in Kubernetes and Docker Swarm, aiming to enhance application scaling capabilities. Beyond that, I harbor a profound interest in artificial intelligence and deep learning, exploring avenues to integrate these cutting-edge technologies into my skill set and the projects I undertake.</p>
+
+[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=0e76a8&logo=adobe-acrobat-reader&logoColor=ffffff)](Documents/Pulock-Das-Resume.pdf)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin)](https://www.linkedin.com/in/pulock/)
+[![Leetcode](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=leetcode)](https://www.leetcode.com/pulock50)
+[![Codeforces](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/pulock50)
+[![Stopstalk](https://img.shields.io/badge/%20-Pulock-black?color=14171A&labelColor=0e76a8&logo=stopstalk&logoColor=red)](https://www.stopstalk.com/user/profile/Pulock)
+[![Email Address](https://img.shields.io/badge/%20-pulockkamol50-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:pulockkamol50@gmail.com)
 [![Facebook Follow](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/pulockdas.das)
+[![Instagram Follow](https://img.shields.io/badge/%20-pulock_das_kamol-black?color=14171A&labelColor=1976d2&logo=instagram)](https://www.instagram.com/pulock_das_kamol/)
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Currently Learning & Interested on
 
-- 🌱 Currently learning **MEAN STACK Technology**
+- 🌱 Application scaling using  **📦 Docker Swarm and Kubernetes**
 
-- 👯 Pretty much interested in **OpenSource Projects**
+- 🌱 **PostgreSQL** database optimization 📊🛠️
 
-- 👯 Have knowledge in **Data Structure and Algorithm**
+- 🌱 Delving into the realms of **📈 Artificial Intelligence & Deep Learning**
 
-- ⚡ Fun fact **I play games and love to travel**
 
-## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://angularjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+## 🚀 Tools & Technologies
+
+<img src="https://img.shields.io/badge/Languages-3F3F3F?style=for-the-badge&logo=svelte&logoColor=FFFFFF">![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=mocha&logoColor=22C4E1&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b)![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=22C4E1&labelColor=211e1b)![badge-sql](https://img.shields.io/badge/sql-211e1b?style=for-the-badge&logo=postgresql&logoColor=22C4E1&labelColor=211e1b)![badge-javascript](https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b)![badge-typescript](https://img.shields.io/badge/typescript-211e1b?style=for-the-badge&logo=typescript&logoColor=22C4E1&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Front%20End-3F3F3F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=&logoColor=FFFFFF">![badge-angular](https://img.shields.io/badge/Angular-211e1b?style=for-the-badge&logo=angular&logoColor=22C4E1&labelColor=211e1b)![badge-bootstrap](https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=22C4E1&labelColor=211e1b)![badge-redux](https://img.shields.io/badge/redux-211e1b?style=for-the-badge&logo=redux&logoColor=22C4E1&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Back%20End-3F3F3F?style=for-the-badge&logo=Serverless&logoColor=FFFFFF">![badge-spring](https://img.shields.io/badge/spring-211e1b?style=for-the-badge&logo=spring&logoColor=22C4E1&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=22C4E1&labelColor=211e1b)![badge-express](https://img.shields.io/badge/expressjs-211e1b?style=for-the-badge&logo=express&logoColor=22C4E1&labelColor=211e1b)![badge-rmq](https://img.shields.io/badge/rabbitmq-211e1b?style=for-the-badge&logo=rabbitmq&logoColor=22C4E1&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-postgres](https://img.shields.io/badge/PostgreSQL-211e1b?style=for-the-badge&logo=postgresql&logoColor=22C4E1&labelColor=211e1b)![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b)![badge-mongo](https://img.shields.io/badge/MongoDB-211e1b?style=for-the-badge&logo=MongoDB&logoColor=22C4E1&labelColor=211e1b) <br />
+<img src="https://img.shields.io/badge/DevOps-3F3F3F?style=for-the-badge&logo=iCloud&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b)![badge-cicd](https://img.shields.io/badge/cicd-211e1b?style=for-the-badge&logo=jenkins&logoColor=22C4E1&labelColor=211e1b)![badge-docker](https://img.shields.io/badge/docker-211e1b?style=for-the-badge&logo=docker&logoColor=22C4E1&labelColor=211e1b)<br />
+<img src="https://img.shields.io/badge/Data%20Science-3F3F3F?style=for-the-badge&logo=MusicBrainz&logoColor=FFFFFF">![badge-tensorflow](https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b)![badge-pytorch](https://img.shields.io/badge/pytorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=22C4E1&labelColor=211e1b)![badge-numpy](https://img.shields.io/badge/numpy-211e1b?style=for-the-badge&logo=numpy&logoColor=22C4E1&labelColor=211e1b)![badge-pandas](https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b)
+
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <br/>
 
@@ -50,4 +53,5 @@
 
 <br/>
 
-<a href="https://github.com/PulockDas/github-readme-activity-graph"><img alt="Pulock's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PulockDas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulockdas" alt="pulockdas" /></a> </p>
