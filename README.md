@@ -44,3 +44,9 @@
 - [Physics-Embedded Feature Learning for AI in Medical Imaging](https://doi.org/10.1109/SoutheastCon63549.2026.11476195) · IEEE SoutheastCon 2026
 - [Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data](https://arxiv.org/abs/2608.00346).
 - [Verse-Based Emotion Analysis of Bengali Music from Lyrics Using Machine Learning and Neural Network Classifiers](https://doi.org/10.12785/ijcds/150128) · International Journal of Computing and Digital Systems, 2024
+
+## 🔥 GitHub streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PulockDas&theme=github-dark-blue&hide_border=false" alt="GitHub streak" />
+</p>
