@@ -1,61 +1,46 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Pulock Das</h1>
 
-<h1 align="center">Hi there, I'm Pulock Das</h1>
-<p>I'm a Machine Learning Engineer and M.S. student in Computer &amp; Information Systems Engineering at <b>Tennessee State University</b> (graduating Dec 2026). As a Graduate Research Assistant, I work on <b>computer vision and deep learning for medical imaging</b>: physics-informed CNNs, efficient Vision Transformers, and privacy-preserving federated learning.</p>
+<p align="center"><strong>Backend Software Engineer · M.S. Student at Tennessee State University</strong></p>
 
-<p>Before grad school, I spent 1.5 years as a Software Engineer at <b>Tallykhata</b>, building production backend systems for high-volume financial transactions (Java, Spring Boot, Django, PostgreSQL, RabbitMQ, Docker, CI/CD).</p>
+<p align="center">
+  <a href="https://pulockdas.github.io/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-334155?style=flat-square" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/pulock/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.leetcode.com/pulock50"><img src="https://img.shields.io/badge/LeetCode-334155?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://scholar.google.com/citations?user=6KoelNQAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
+  <a href="https://codeforces.com/profile/pulock50"><img src="https://img.shields.io/badge/Codeforces-334155?style=flat-square&amp;logo=codeforces" alt="Codeforces"></a>
+</p>
 
-<p>🔭 <b>Open to Machine Learning, Computer Vision, and Software Engineering roles starting January 2027.</b></p>
+- **Backend engineering** · Spent 1.5 years at Tallykhata building production backend services for high-volume financial transactions.
+- **Interests** · I'm interested in system design and how backend services are deployed and scaled in the cloud.
+- **Graduate research** · M.S. in Computer & Information Systems Engineering, Tennessee State University (Dec 2026). My research covers federated deep learning for medical imaging and benchmarking clustering methods on imbalanced tabular data. Evaluated tabular foundation models' performances and studied about them.
 
-[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=0e76a8&logo=adobe-acrobat-reader&logoColor=ffffff)](https://pulockdas.github.io/resume.pdf)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin)](https://www.linkedin.com/in/pulock/)
-[![Leetcode](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=leetcode)](https://www.leetcode.com/pulock50)
-[![Codeforces](https://img.shields.io/badge/%20-pulock50-black?color=14171A&labelColor=0e76a8&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/pulock50)
-[![Stopstalk](https://img.shields.io/badge/%20-Pulock-black?color=14171A&labelColor=0e76a8&logo=stopstalk&logoColor=red)](https://www.stopstalk.com/user/profile/Pulock)
-[![Email Address](https://img.shields.io/badge/%20-pulockkamol50-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:pulockkamol50@gmail.com)
-[![Facebook Follow](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/pulockdas.das)
-[![Instagram Follow](https://img.shields.io/badge/%20-pulock_das_kamol-black?color=14171A&labelColor=1976d2&logo=instagram)](https://www.instagram.com/pulock_das_kamol/)
+## 🛠️ Tools I work with
 
-## 🔬 Featured Research & Projects
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-334155?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-334155?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-334155?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
 
-- **[Federated Medical Image Classification with Physics-Informed DL](https://github.com/PulockDas/medical_fl_pidl)**: ResNet-18 with a Perona-Malik PIDL regularizer, trained with Flower federated learning across brain MRI, colon histopathology, and COVID-19 X-ray datasets (95%+ on brain tumor MRI, 99.9% on colon cancer), with ablations, robustness tests, and Grad-CAM explainability.
-- **[Secure Inference with Token-Reduced Vision Transformers](https://github.com/PulockDas/Secure-Inference-Token-Reduced-VIT)**: knowledge distillation from a ViT-B/16 teacher to a token-reduced, HE-friendly student ViT (92%+ on LC25000) for encrypted inference with CKKS. *In progress.*
-- **[Brain Tumor MRI Classification with Perona-Malik Regularizer](https://github.com/PulockDas/Brain-Tumor-Classification-with-PM-Regulizer)**: PyTorch training pipeline for 4-class brain MRI classification with physics-informed feature regularization and ablation studies.
-- **[Federated PIDL with Secure Aggregation & DP](https://github.com/PulockDas/medical-image-classification-PIDL-FL)**: extends the brain MRI pipeline with class-wise weight deltas, differential privacy, and Flower SecAgg+.
+**Build and automation**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-334155?style=flat-square&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
+
+**Machine learning and data**
+
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-334155?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white)
+
+- **Also work with** · GitLab CI/CD, Flower
 
 ## 📄 Publications
 
-- **P. Das** et al. *Physics-Embedded Feature Learning for AI in Medical Imaging.* IEEE SoutheastCon 2026.
-- **P. Das** et al. *Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data.* [arXiv:2608.00346](https://arxiv.org/abs/2608.00346)
-
-## 🚀 Tools & Technologies
-
-<img src="https://img.shields.io/badge/Languages-3F3F3F?style=for-the-badge&logo=svelte&logoColor=FFFFFF">![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=mocha&logoColor=22C4E1&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b)![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=22C4E1&labelColor=211e1b)![badge-javascript](https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b)![badge-sql](https://img.shields.io/badge/sql-211e1b?style=for-the-badge&logo=postgresql&logoColor=22C4E1&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Back%20End-3F3F3F?style=for-the-badge&logo=Serverless&logoColor=FFFFFF">![badge-spring](https://img.shields.io/badge/spring-211e1b?style=for-the-badge&logo=spring&logoColor=22C4E1&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=22C4E1&labelColor=211e1b)![badge-express](https://img.shields.io/badge/expressjs-211e1b?style=for-the-badge&logo=express&logoColor=22C4E1&labelColor=211e1b)![badge-rmq](https://img.shields.io/badge/rabbitmq-211e1b?style=for-the-badge&logo=rabbitmq&logoColor=22C4E1&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Front%20End-3F3F3F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=&logoColor=FFFFFF">![badge-angular](https://img.shields.io/badge/Angular-211e1b?style=for-the-badge&logo=angular&logoColor=22C4E1&labelColor=211e1b)![badge-bootstrap](https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=22C4E1&labelColor=211e1b)![badge-redux](https://img.shields.io/badge/redux-211e1b?style=for-the-badge&logo=redux&logoColor=22C4E1&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-postgres](https://img.shields.io/badge/PostgreSQL-211e1b?style=for-the-badge&logo=postgresql&logoColor=22C4E1&labelColor=211e1b)![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b)![badge-mongo](https://img.shields.io/badge/MongoDB-211e1b?style=for-the-badge&logo=MongoDB&logoColor=22C4E1&labelColor=211e1b) <br />
-<img src="https://img.shields.io/badge/DevOps-3F3F3F?style=for-the-badge&logo=iCloud&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b)![badge-cicd](https://img.shields.io/badge/cicd-211e1b?style=for-the-badge&logo=jenkins&logoColor=22C4E1&labelColor=211e1b)![badge-docker](https://img.shields.io/badge/docker-211e1b?style=for-the-badge&logo=docker&logoColor=22C4E1&labelColor=211e1b)<br />
-<img src="https://img.shields.io/badge/Data%20Science-3F3F3F?style=for-the-badge&logo=MusicBrainz&logoColor=FFFFFF">![badge-tensorflow](https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b)![badge-pytorch](https://img.shields.io/badge/pytorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=22C4E1&labelColor=211e1b)![badge-numpy](https://img.shields.io/badge/numpy-211e1b?style=for-the-badge&logo=numpy&logoColor=22C4E1&labelColor=211e1b)![badge-pandas](https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b)
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/PulockDas/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pulock's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PulockDas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/PulockDas/github-readme-stats"><img alt="Pulock Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PulockDas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PulockDas/github-readme-stats"><img alt="Pulock's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulockDas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/> <br/>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulockdas" alt="pulockdas" /></a> </p>
+- [Physics-Embedded Feature Learning for AI in Medical Imaging](https://doi.org/10.1109/SoutheastCon63549.2026.11476195) · IEEE SoutheastCon 2026
+- [Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data](https://arxiv.org/abs/2608.00346).
+- [Verse-Based Emotion Analysis of Bengali Music from Lyrics Using Machine Learning and Neural Network Classifiers](https://doi.org/10.12785/ijcds/150128) · International Journal of Computing and Digital Systems, 2024
