@@ -3,7 +3,7 @@
 <p align="center"><strong>Backend Software Engineer · M.S. Student at Tennessee State University</strong></p>
 
 <p align="center">
-  <a href="https://pulockdas.github.io/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-334155?style=flat-square" alt="Résumé"></a>
+  <a href="https://github.com/PulockDas/PulockDas/blob/main/Documents/github_resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-334155?style=flat-square" alt="Résumé"></a>
   <a href="https://www.linkedin.com/in/pulock/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.leetcode.com/pulock50"><img src="https://img.shields.io/badge/LeetCode-334155?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode"></a>
   <a href="https://scholar.google.com/citations?user=6KoelNQAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
