@@ -1,9 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there, I'm Pulock Das</h1>
-<p>I am currently a dedicated software engineer at Tallykhata, a forward-thinking fintech software company with in-house products. My role involves dynamic product maintenance, continuously integrating new features, and fostering a culture of good software development practices having been involved in a spectrum of technical tasks, ranging from Spring, Django app development, and front-end development using Vue.js and JavaScript. Additionally, I'm well-versed in utilizing message queues, Docker for containerization, CI/CD pipelines, and managing SQL databases.
+<p>I'm a Machine Learning Engineer and M.S. student in Computer &amp; Information Systems Engineering at <b>Tennessee State University</b> (graduating Dec 2026). As a Graduate Research Assistant, I work on <b>computer vision and deep learning for medical imaging</b>: physics-informed CNNs, efficient Vision Transformers, and privacy-preserving federated learning.</p>
 
-My current focus extends to the realms of scalability, particularly in Kubernetes and Docker Swarm, aiming to enhance application scaling capabilities. Beyond that, I harbor a profound interest in artificial intelligence and deep learning, exploring avenues to integrate these cutting-edge technologies into my skill set and the projects I undertake.</p>
+<p>Before grad school, I spent 1.5 years as a Software Engineer at <b>Tallykhata</b>, building production backend systems for high-volume financial transactions (Java, Spring Boot, Django, PostgreSQL, RabbitMQ, Docker, CI/CD).</p>
+
+<p>🔭 <b>Open to Machine Learning, Computer Vision, and Software Engineering roles starting January 2027.</b></p>
 
 [![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=0e76a8&logo=adobe-acrobat-reader&logoColor=ffffff)](https://pulockdas.github.io/resume.pdf)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=0e76a8&logo=linkedin)](https://www.linkedin.com/in/pulock/)
@@ -14,15 +16,17 @@ My current focus extends to the realms of scalability, particularly in Kubernete
 [![Facebook Follow](https://img.shields.io/badge/%20-PulockDas-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/pulockdas.das)
 [![Instagram Follow](https://img.shields.io/badge/%20-pulock_das_kamol-black?color=14171A&labelColor=1976d2&logo=instagram)](https://www.instagram.com/pulock_das_kamol/)
 
-## 🙋‍♂️ Currently Learning & Interested on
+## 🔬 Featured Research & Projects
 
-- 🌱 Application scaling using  **📦 Docker Swarm and Kubernetes**
+- **[Federated Medical Image Classification with Physics-Informed DL](https://github.com/PulockDas/medical_fl_pidl)**: ResNet-18 with a Perona-Malik PIDL regularizer, trained with Flower federated learning across brain MRI, colon histopathology, and COVID-19 X-ray datasets (95%+ on brain tumor MRI, 99.9% on colon cancer), with ablations, robustness tests, and Grad-CAM explainability.
+- **[Secure Inference with Token-Reduced Vision Transformers](https://github.com/PulockDas/Secure-Inference-Token-Reduced-VIT)**: knowledge distillation from a ViT-B/16 teacher to a token-reduced, HE-friendly student ViT (92%+ on LC25000) for encrypted inference with CKKS. *In progress.*
+- **[Brain Tumor MRI Classification with Perona-Malik Regularizer](https://github.com/PulockDas/Brain-Tumor-Classification-with-PM-Regulizer)**: PyTorch training pipeline for 4-class brain MRI classification with physics-informed feature regularization and ablation studies.
+- **[Federated PIDL with Secure Aggregation & DP](https://github.com/PulockDas/medical-image-classification-PIDL-FL)**: extends the brain MRI pipeline with class-wise weight deltas, differential privacy, and Flower SecAgg+.
 
-- 🌱 **PostgreSQL** database optimization 📊🛠️
+## 📄 Publications
 
-- 🌱 Delving into the realms of **📈 Artificial Intelligence & Deep Learning**
-
-
+- **P. Das** et al. *Physics-Embedded Feature Learning for AI in Medical Imaging.* IEEE SoutheastCon 2026.
+- **P. Das** et al. *Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data.* [arXiv:2608.00346](https://arxiv.org/abs/2608.00346)
 
 ## 🚀 Tools & Technologies
 
